@@ -16,8 +16,6 @@
 
 #include "JNIHelper.h"
 
-#include <fstream>
-#include <iostream>
 
 namespace ndkGui {
 
