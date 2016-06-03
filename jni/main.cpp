@@ -31,7 +31,7 @@
 
 
 // Class name of helper function
-#define HELPER_CLASS_NAME "com/ndkgui/helper/JNIHelper"
+#define HELPER_CLASS_NAME "com/ndkgui/helper/NDKHelper"
 // Class name of JUIhelper function
 #define JUIHELPER_CLASS_NAME "com/ndkgui/helper/JUIHelper"
 // Share object name of helper function library
